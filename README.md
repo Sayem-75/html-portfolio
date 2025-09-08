@@ -1,2 +1,2 @@
 # html-portfolio
-Sample Portfolio in HTML
+Sample portfolio project created using HTML.
